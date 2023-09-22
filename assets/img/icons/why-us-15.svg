@@ -1,0 +1,25 @@
+<svg width="66" height="71" viewBox="0 0 66 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_2_7445)">
+<circle cx="33" cy="38" r="13" fill="#392E66"/>
+</g>
+<circle cx="33" cy="25" r="25" fill="url(#paint0_linear_2_7445)"/>
+<g clip-path="url(#clip0_2_7445)">
+<path d="M33.0007 15.2505C31.3074 15.2504 29.6433 15.6912 28.1721 16.5297C26.701 17.3682 25.4736 18.5753 24.6107 20.0323C23.7479 21.4893 23.2794 23.1459 23.2513 24.8389C23.2233 26.532 23.6366 28.2032 24.4507 29.688L23.6539 32.5005C23.5795 32.7568 23.5753 33.0283 23.6418 33.2868C23.7082 33.5452 23.8428 33.7811 24.0314 33.9698C24.2201 34.1585 24.456 34.293 24.7145 34.3595C24.9729 34.4259 25.2445 34.4217 25.5007 34.3474L28.3132 33.5505C29.6166 34.2649 31.0661 34.6718 32.5508 34.7402C34.0356 34.8085 35.5163 34.5366 36.8799 33.945C38.2434 33.3535 39.4536 32.458 40.4181 31.3271C41.3825 30.1961 42.0756 28.8597 42.4445 27.4198C42.8133 25.98 42.848 24.4749 42.546 23.0196C42.2441 21.5642 41.6133 20.1972 40.7021 19.023C39.7909 17.8487 38.6232 16.8984 37.2885 16.2446C35.9537 15.5907 34.4871 15.2507 33.0007 15.2505Z" fill="white"/>
+<path d="M31 23.0005L35 27.0005" stroke="#423476" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31 27.0005L35 23.0005" stroke="#423476" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_f_2_7445" x="0" y="5" width="66" height="66" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_2_7445"/>
+</filter>
+<linearGradient id="paint0_linear_2_7445" x1="33" y1="0" x2="33" y2="50" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4E3D95"/>
+<stop offset="1" stop-color="#3A2E60"/>
+</linearGradient>
+<clipPath id="clip0_2_7445">
+<rect width="24" height="24" fill="white" transform="translate(21 13.0005)"/>
+</clipPath>
+</defs>
+</svg>

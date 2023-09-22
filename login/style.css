@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+body{
+    background: black;
+}
+.signupclr{
+    color:#1D2733;
+}
+.small{
+    margin-right: 3px;
+}
+.forgot{
+    color: #1D2733;
+}
+.loginbtn button{
+    background-color: #1D2733;
+    color: white;
+    margin-bottom: 20px;
+    width: 94%;
+    margin-left: 14px;
+}
+.Wowondertext{
+    /* background-color: antiquewhite; */
+    font-family: 'Rubik', serif;
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-size: 20px;
+}
+.logintext{
+    font-family: 'Rubik', serif;
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    margin-top: 25px;
+    margin-left: 5px;
+}
+.login img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
